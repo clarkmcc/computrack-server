@@ -1,0 +1,14 @@
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\bin\Debug\CompuTrack Server.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\bin\Debug\CompuTrack Server.exe
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\bin\Debug\CompuTrack Server.pdb
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\MainWindow.g.cs
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\App.g.cs
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server_MarkupCompile.cache
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server_MarkupCompile.lref
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\MainWindow.baml
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server.g.resources
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack_Server.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server.exe
+c:\users\owner\documents\visual studio 2015\Projects\CompuTrack Server\CompuTrack Server\obj\Debug\CompuTrack Server.pdb
